@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Bajo la misma estrella",
+    "description": "Romance de tapa dura",
+    "price": 8999,
+    "thumbnail": "Sin imagen",
+    "code": "abc1",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "title": "Harry Potter y la piedra filosofal",
+    "description": "Libro de fantasía escrito por la autora J.K.Rowling",
+    "price": 22000,
+    "thumbnail": "Sin imagen 2",
+    "code": "abc12",
+    "stock": 30
+  },
+  {
+    "id": 3,
+    "title": "El hobbit",
+    "description": "De categoría fantasía escrito por J.R.R.Tolkien",
+    "price": 10500,
+    "thumbnail": "Sin imagen 3",
+    "code": "abc123",
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "title": "Cinder",
+    "description": "Historia de fantasía. Cuenta con 4 libros en saga",
+    "price": 18500,
+    "thumbnail": "Sin imagen 4",
+    "code": "abc1234",
+    "stock": 40
+  }
+]
